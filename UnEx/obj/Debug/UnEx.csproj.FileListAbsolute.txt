@@ -1,0 +1,76 @@
+C:\Users\ENGINE\Desktop\EPC\UnEx\bin\Debug\UnEx.exe.config
+C:\Users\ENGINE\Desktop\EPC\UnEx\bin\Debug\UnEx.exe
+C:\Users\ENGINE\Desktop\EPC\UnEx\bin\Debug\UnEx.pdb
+C:\Users\ENGINE\Desktop\EPC\UnEx\bin\Debug\DotNetZip.dll
+C:\Users\ENGINE\Desktop\EPC\UnEx\bin\Debug\DotNetZip.xml
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\UnEx.csprojResolveAssemblyReference.cache
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\UnEx.csproj.ResolveComReference.cache
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\MainWindow.g.cs
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\App.g.cs
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\UnEx_MarkupCompile.cache
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\UnEx_MarkupCompile.lref
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\MainWindow.baml
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\UnEx.g.resources
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\EPC.Properties.Resources.resources
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\UnEx.csproj.GenerateResource.Cache
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\UnEx.csproj.CoreCompileInputs.cache
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\UnEx.exe
+C:\Users\ENGINE\Desktop\EPC\UnEx\obj\Debug\UnEx.pdb
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\bin\Debug\UnEx.exe.config
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\bin\Debug\UnEx.exe
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\bin\Debug\UnEx.pdb
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\bin\Debug\DotNetZip.dll
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\bin\Debug\DotNetZip.xml
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.csprojResolveAssemblyReference.cache
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.csproj.ResolveComReference.cache
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\MainWindow.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\App.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx_MarkupCompile.cache
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx_MarkupCompile.lref
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\MainWindow.baml
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.g.resources
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\EPC.Properties.Resources.resources
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.csproj.GenerateResource.Cache
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.csproj.CoreCompileInputs.cache
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.exe
+C:\Users\ENGINE\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.pdb
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\bin\Debug\UnEx.exe.config
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\bin\Debug\UnEx.exe
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\bin\Debug\UnEx.pdb
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\bin\Debug\DotNetZip.dll
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\bin\Debug\DotNetZip.xml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.csproj.AssemblyReference.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.csproj.SuggestedBindingRedirects.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.csproj.ResolveComReference.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\MainWindow.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\App.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx_MarkupCompile.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx_MarkupCompile.lref
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\MainWindow.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.g.resources
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\EPC.Properties.Resources.resources
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.csproj.GenerateResource.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.csproj.CoreCompileInputs.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.csproj.CopyComplete
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.exe
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\UnEx\UnEx\obj\Debug\UnEx.pdb
+C:\Users\ENGINE\Desktop\UnEx\UnEx\bin\Debug\UnEx.exe.config
+C:\Users\ENGINE\Desktop\UnEx\UnEx\bin\Debug\UnEx.exe
+C:\Users\ENGINE\Desktop\UnEx\UnEx\bin\Debug\UnEx.pdb
+C:\Users\ENGINE\Desktop\UnEx\UnEx\bin\Debug\DotNetZip.dll
+C:\Users\ENGINE\Desktop\UnEx\UnEx\bin\Debug\DotNetZip.xml
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx.csproj.AssemblyReference.cache
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx.csproj.ResolveComReference.cache
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\MainWindow.g.cs
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\App.g.cs
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx_MarkupCompile.cache
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx_MarkupCompile.lref
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\MainWindow.baml
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx.g.resources
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\EPC.Properties.Resources.resources
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx.csproj.GenerateResource.cache
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx.csproj.CoreCompileInputs.cache
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx.csproj.CopyComplete
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx.exe
+C:\Users\ENGINE\Desktop\UnEx\UnEx\obj\Debug\UnEx.pdb
